@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DỰ ÁN: TỪ DỮ LIỆU ĐẾN PHÂN TÍCH VỚI PYTHON
    - **Họ và tên:** [VoNguyenNhatMinh]
    - **MSSV:** [2311559297]
@@ -9,3 +10,6 @@
    - **Câu 3:** ...
    - **Câu 4:** ...
    - **Câu 5:** ...
+=======
+# VoNguyenNhatMinh-2311559297
+>>>>>>> f8965a2517414d2c48a33ec3a08d8ce7a238f4e5
